@@ -2,7 +2,7 @@
 
 
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Century Gothic';
   src: url('../fonts/opensans-regular-webfont.eot');
   src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('../fonts/opensans-regular-webfont.woff') format('woff'),
@@ -13,7 +13,7 @@
 }
 
 @font-face {
-  font-family: 'Open Sans';
+  font-family: 'Century Gothic';
   src: url('../fonts/opensans-italic-webfont.eot');
   src: url('../fonts/opensans-italic-webfont.eot?#iefix') format('embedded-opentype'),
        url('../fonts/opensans-italic-webfont.woff') format('woff'),
@@ -528,7 +528,7 @@ dd p:first-child {
 .header-level-1 {
   font-size: 1.85em;
   border-bottom: .2em double #d3ccc1;
-  color: #7c334f;
+  color: #8c666f;
   text-align: center;
   font-style: italic;
   margin: 1.1em 0 .38em;
